@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Creating a remote and local repository exercise
+Creating a repository exercise.
